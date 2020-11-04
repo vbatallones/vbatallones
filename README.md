@@ -3,6 +3,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vbatallones&theme=gruvbox&show_icons=true&hide=stars,issues&count_private=true&hide_border=true&line_height=30"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbatallones&layout=compact&theme=gruvbox&hide_border=true"/>
 </p>
+<h3> <img src="code.gif" width="30px" height="30px"/> Stack </h3>
+
+![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 <!--
 **vbatallones/vbatallones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
+
