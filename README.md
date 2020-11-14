@@ -4,7 +4,7 @@
   <div style="display: flex; flex-direction: row;">
     <img src="readme%20pics/pinoy-ako.jpg" height="135px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=vbatallones&theme=gruvbox&show_icons=true&hide=stars,issues&count_private=true&hide_border=true&line_height=30" width="400px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbatallones&layout=compact&theme=gruvbox&hide_border=true" height="133.5px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbatallones&layout=compact&theme=gruvbox&hide_border=true" height="133.4px"/>
 
   </div>
 </div>
