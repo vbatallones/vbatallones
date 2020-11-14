@@ -1,7 +1,7 @@
 ### Hi there, I'm Levin 
 
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
+  <div style="display: flex; flex-direction: row;">
     <img src="readme%20pics/pinoy-ako.jpg" height="135px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=vbatallones&theme=gruvbox&show_icons=true&hide=stars,issues&count_private=true&hide_border=true&line_height=30"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbatallones&layout=compact&theme=gruvbox&hide_border=true"/>
