@@ -1,10 +1,14 @@
 ### Hi there, I'm Levin 
 
-<p align="center"> 
-<img src="readme%20pics/pinoy-ako.jpg" height="140px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=vbatallones&theme=gruvbox&show_icons=true&hide=stars,issues&count_private=true&hide_border=true&line_height=30"/>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="readme%20pics/pinoy-ako.jpg" height="135px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vbatallones&theme=gruvbox&show_icons=true&hide=stars,issues&count_private=true&hide_border=true&line_height=30"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbatallones&layout=compact&theme=gruvbox&hide_border=true"/>
-</p>
+
+  </div>
+</div>
+
 <h3> <img src="readme%20pics/code.gif" width="30px" height="30px"/> Stack </h3>
 
 ![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
