@@ -9,7 +9,7 @@
   </div>
 </div>
 
-<h3> <img src="readme%20pics/code.gif" width="30px" height="30px"/> Stack </h3>
+<p align="center"> <img src="readme%20pics/potion-stack.png" height="133.33px"/> </p>
 
 ![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
